@@ -21,6 +21,7 @@ Now I am deleting duplicate entries from the table. This will ensure that each c
 
 I standardized the data by changing the format of the date data type. 
 This makes it easier to work with the data and ensure that it is consistent.
+
 ![4](https://github.com/user-attachments/assets/e9cd8cbd-7a04-4be5-b864-0c4dd737bf7f)
 
 I am deleting null data for finally cleaning the data. This ensures that the data is complete and consistent.
